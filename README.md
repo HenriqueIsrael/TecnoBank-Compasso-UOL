@@ -1,4 +1,5 @@
-# TecnoBank - Compasso UOL
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<div align="center" > <img  width=“300” height="200" src="https://user-images.githubusercontent.com/85000007/131361932-2575dd42-00c2-49af-bdab-c03f17a08cc4.png"> </div>
 
 
 
@@ -107,7 +108,9 @@ Esse repositório contém um projeto mobile desenvolvido pelo squad TecnoDroid d
 </div>
 
 
-
-
+</br>
+</br>
+</br>
   
 
+<div align="center" > <img  width=“150” height="100" src="https://user-images.githubusercontent.com/85000007/131362675-59d8f78d-2608-488e-9975-a7795fce3c4d.png"> </div>
