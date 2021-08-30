@@ -27,7 +27,8 @@ Esse repositório contém um projeto mobile desenvolvido pelo squad TecnoDroid d
 - Koin
 - LiveData
 
-
+## Apresentação
+<img src="./Apresentação-min.gif">
 
 ## Desenvolvimento
 
