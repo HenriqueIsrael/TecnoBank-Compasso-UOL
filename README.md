@@ -28,7 +28,7 @@ Esse repositório contém um projeto mobile desenvolvido pelo squad TecnoDroid d
 - LiveData
 
 ## Apresentação
-<img src="./Apresentação-min.gif">
+<div align="center"> <img  width=“600” height="700" src="./Apresentação-min.gif"> </div>
 
 ## Desenvolvimento
 
